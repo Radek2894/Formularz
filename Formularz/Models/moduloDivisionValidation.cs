@@ -47,6 +47,8 @@ namespace Formularz.Models
 			}
 		}
 
+		int zmienna;
+
 
 	}
 }
